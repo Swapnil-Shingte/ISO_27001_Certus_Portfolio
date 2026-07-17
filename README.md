@@ -1,6 +1,6 @@
 # ISO/IEC 27001:2022 — Applied ISMS Portfolio Project
 
-**Author:** Swapnil Shingte, ISO/IEC 27001:2022 Lead Auditor (CQI-IRCA)
+**Author:** Swapnil Shingte, ISO/IEC 27001:2022 Lead Auditor 
 
 ## What this is
 
