@@ -21,6 +21,8 @@ Modelled as a ~150-person IT managed services / software company — hybrid work
 | `Statement_of_Applicability.xlsx` | Clause 6.1.3(d) — all 93 Annex A controls, applicability, justification, implementation status, 1 justified exclusion |
 | `Internal_Audit_Report.docx` | Full first-party audit report — 1 major NC, 3 minor NCs, 2 OFIs, 5 sampled conformities, root-cause findings, follow-up plan |
 
+See /TPRM folder for an extension covering vendor risk assessment — questionnaire, completed sample assessment, and policy.
+
 ## How the pieces connect
 
 This isn't four disconnected documents — they trace through each other, the way a real ISMS does:
